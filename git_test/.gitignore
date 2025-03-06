@@ -1,0 +1,10 @@
+*.txt
+index.js
+bin/
+*.jpg
+*.png
+.log
+.tmp
+.config
+/node_modules/
+/assets/*
